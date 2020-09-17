@@ -1,0 +1,2 @@
+MammalIndex,Date,SightingNumber,EntryTime,InitTime,InitLatitude,InitLongitude,SpeciesCode,SpeciesIndex,GroupSize,Calves,OnEffort,SightingPosition,BubbleObs,Transect,TrackIndex,SightingTime,SightingLat,SightingLon,Reliability,Confidence,Heading
+1,2018-12-12 00:00:00,1,1899-12-30 15:47:23,1899-12-30 15:40:40,31.787377045187139,-80.574931349811578,RIWH,1,2,0,True,2,3,3147,679,1899-12-30 15:41:33,31.806293690258762,-80.561003032378665,-1,-1,-1

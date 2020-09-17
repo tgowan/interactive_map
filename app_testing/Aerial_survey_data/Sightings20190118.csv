@@ -1,0 +1,3 @@
+﻿MammalIndex,Date,SightingNumber,EntryTime,InitTime,InitLatitude,InitLongitude,SpeciesCode,SpeciesIndex,GroupSize,Calves,OnEffort,SightingPosition,BubbleObs,Transect,TrackIndex,SightingTime,SightingLat,SightingLon,Reliability,Confidence,Heading,Notes
+1,1/18/2019,1,1899-12-30 18:58:55.000,1899-12-30 18:56:57.000,30.14263242,-81.14774086,RIWH,1,2,1,1,2,7,3008,672,1899-12-30 18:57:05.000,30.13979909,-81.14440753,-1,-1,-1,Enter Notes ...
+2,1/18/2019,2,1899-12-30 20:19:06.000,1899-12-30 20:15:31.000,30.0422992,-81.31490734,HUWH,0,2,1,1,2,7,V,1146,1899-12-30 20:16:06.000,30.03179922,-81.31590734,-1,-1,-1,"S1, first Pass"
